@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Pedro! 👋
 
-<!--
-**pedroluizb-commits/pedroluizb-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated High School in 2025 and I am currently diving deep into technology through a **2-year System Development specialization at WEG**.
 
-Here are some ideas to get you started:
+I am a dedicated developer who always strives to give my absolute best in every project or task assigned to me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **improving my Java skills.**
+- 🌱 I plan to learn **JavaScript and Python** in the near future.
+- ⚡ **Fun fact:** Although I work in IT, I love being active! In my free time, you'll find me **surfing** 🏄‍♂️ or playing **soccer** ⚽.
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+</p>
+
+### 📫 How to reach me
+- **Email:** [pedro_baratto@estudante.sesisenai.org.br]
+- **Instagram:** [pe.deandrade]
