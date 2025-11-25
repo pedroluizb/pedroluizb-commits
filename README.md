@@ -7,13 +7,13 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
  **Foco:** Dedicado a construir soluções robustas e escaláveis.
 
 ### 💻 Planos Futuros
-🔭 **Atualmente:** Focado em aprimorar e consolidar minhas habilidades em *Java.*
-🌱 **Em breve:** Planejo mergulhar e dominar *JavaScript* e *Python.*
+🔭 **Atualmente:** Focado em aprimorar e consolidar minhas habilidades em *Java.* <br>
+🌱 **Em breve:** Planejo mergulhar e dominar *JavaScript* e *Python.* <br>
 🛠️ **Linguagens e Ferramentas:**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### ⚽ Curiosidades
-⚡Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo! <br>
+### ⚡ Curiosidades
+Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo! <br>
 Lazer: No meu tempo livre, você me encontra *surfando* ou jogando *futebol*.
 
 ### 📫 Entre em Contato
