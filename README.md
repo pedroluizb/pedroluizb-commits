@@ -17,3 +17,5 @@ Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter
 
 ### 📫 Entre em Contato
 Instagram: `[pe.deandrade]` 
+
+[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroluizb)](https://github.com/pedroluizb/github-readme-stats)
