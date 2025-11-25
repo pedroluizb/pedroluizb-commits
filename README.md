@@ -14,5 +14,4 @@ I am a dedicated developer who always strives to give my absolute best in every 
 </p>
 
 ### 📫 How to reach me
-- **Email:** [pedro_baratto@estudante.sesisenai.org.br]
 - **Instagram:** [pe.deandrade]
