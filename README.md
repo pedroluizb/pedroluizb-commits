@@ -9,11 +9,11 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 ### 💻 Stack e Planos Futuros
 🔭 Atualmente: Focado em aprimorar e consolidar minhas habilidades em *Java.
 🌱 Em breve: Planejo mergulhar e dominar *JavaScript* e *Python.
-🛠️ Linguagens e Ferramentas:** (Adicione aqui os ícones ou nomes das ferramentas que você já usa, mesmo que sejam básicas!)
-    * Exemplo: `[Java] [Git] [IDE: VS Code/IntelliJ]`
+🛠️ Linguagens e Ferramentas: 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### ⚽ Fun Fact & Lifestyle
-⚡ Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo!
+### ⚽ Curiosidades
+⚡Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo!
 Lazer: No meu tempo livre, você me encontra surfando 🏄‍♂️ ou jogando futebol ⚽.
 
 ### 📫 Entre em Contato
