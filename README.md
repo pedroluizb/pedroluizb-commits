@@ -6,7 +6,7 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
  Formação: Concluí o Ensino Médio em 2025 e atualmente estou aprofundando meus conhecimentos em tecnologia através da especialização de **2 anos em Desenvolvimento de Sistemas na WEG**.
  Foco: Dedicado a construir soluções robustas e escaláveis.
 
-### 💻 Stack e Planos Futuros
+### 💻 Planos Futuros
 🔭 Atualmente: Focado em aprimorar e consolidar minhas habilidades em *Java.
 🌱 Em breve: Planejo mergulhar e dominar *JavaScript* e *Python.
 🛠️ **Linguagens e Ferramentas: **
