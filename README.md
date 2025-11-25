@@ -12,11 +12,21 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 ![](https://nirzak-streak-stats.vercel.app/?user=pedroluizb&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluizb&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-
 ![](https://github-contributor-stats.vercel.app/api?username=pedroluizb&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+### 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ### 💻 Planos Futuros
 🔭 **Atualmente:** Focado em aprimorar e consolidar minhas habilidades em *Java.* <br>
@@ -29,33 +39,5 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo, no meu tempo livre gosto muito de praticar esportes como surfe e futebol.
 
 ### 📫 Entre em Contato
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pe.deandrade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonipedro61@gmail.com) 
-<br>
-<br>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroluizb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroluizb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedroluizb/pedroluizb/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pe.deandrade)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonipedro61@gmail.com)
