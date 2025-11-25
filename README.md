@@ -9,7 +9,7 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 ### 💻 Stack e Planos Futuros
 🔭 Atualmente: Focado em aprimorar e consolidar minhas habilidades em *Java.
 🌱 Em breve: Planejo mergulhar e dominar *JavaScript* e *Python.
-🛠️ Linguagens e Ferramentas: 
+🛠️ **Linguagens e Ferramentas: **
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### ⚽ Curiosidades
