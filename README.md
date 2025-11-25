@@ -20,11 +20,6 @@ Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter
 
 <div align="center">
   
- 
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroluizb&theme=shadow_red&hide_border=false"/>
-</div>
-  
 ###
 
 # 📊 GitHub Stats:
