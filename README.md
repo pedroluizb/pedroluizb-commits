@@ -30,3 +30,14 @@ Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter
 
 ### 📫 Entre em Contato
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pe.deandrade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonipedro61@gmail.com) 
+<br>
+
+<div align="center">
+  <img <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LucasBedaa/LucasBedaa/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/LucasBedaa/LucasBedaa/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/LucasBedaa/LucasBedaa/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+</div> 
+</div>
