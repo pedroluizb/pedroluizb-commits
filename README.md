@@ -22,7 +22,7 @@ Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter
   
  
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroluizb&theme=ayu_mirage"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroluizb&theme=shadow_red&hide_border=false"/>
 </div>
   
 ###
