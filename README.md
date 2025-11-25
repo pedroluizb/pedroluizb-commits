@@ -13,8 +13,7 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### ⚡ Curiosidades
-Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo! <br>
-Lazer: No meu tempo livre, você me encontra *surfando* ou jogando *futebol*.
+Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo, no meu tempo livre gosto muito de praticar esportes como surfe e futebol.
 
 ### 📫 Entre em Contato
 Instagram: `[pe.deandrade]` 
