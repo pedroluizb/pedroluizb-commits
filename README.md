@@ -22,7 +22,8 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb-commits/output/pacman-contribution-graph-dark.svg">
+          srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb-commits/output/dist/pacman-contribution-graph.svg
+">
   <source media="(prefers-color-scheme: light)" 
           srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb-commits/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" 
