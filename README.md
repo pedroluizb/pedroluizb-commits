@@ -1,17 +1,20 @@
-# Hi there, I'm Pedro! 👋
+## Olá! Sou o Pedro Luiz 👋
 
-I graduated High School in 2025 and I am currently diving deep into technology through a **2-year System Development specialization at WEG**.
+Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melhor em cada projeto e tarefa.
 
-I am a dedicated developer who always strives to give my absolute best in every project or task assigned to me.
+### 🎓 Trajetória Profissional e Acadêmica
+ Formação: Concluí o Ensino Médio em 2025 e atualmente estou aprofundando meus conhecimentos em tecnologia através da especialização de **2 anos em Desenvolvimento de Sistemas na WEG**.
+ Foco: Dedicado a construir soluções robustas e escaláveis.
 
-- 🔭 I’m currently working on **improving my Java skills.**
-- 🌱 I plan to learn **JavaScript and Python** in the near future.
-- ⚡ **Fun fact:** Although I work in IT, I love being active! In my free time, you'll find me **surfing** 🏄‍♂️ or playing **soccer** ⚽.
+### 💻 Stack e Planos Futuros
+* **🔭 Atualmente:** Focado em aprimorar e consolidar minhas habilidades em **Java**.
+* **🌱 Em breve:** Planejo mergulhar e dominar **JavaScript** e **Python**.
+* **🛠️ Linguagens e Ferramentas:** (Adicione aqui os ícones ou nomes das ferramentas que você já usa, mesmo que sejam básicas!)
+    * Exemplo: `[Java] [Git] [IDE: VS Code/IntelliJ]`
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
+### ⚽ Fun Fact & Lifestyle
+* **⚡ Fato Curioso:** Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo!
+* **Lazer:** No meu tempo livre, você me encontra **surfando** 🏄‍♂️ ou jogando **futebol** ⚽.
 
-### 📫 How to reach me
-- **Instagram:** [pe.deandrade]
+### 📫 Entre em Contato
+* **Instagram:** `[pe.deandrade]` (Sinta-se à vontade para adicionar links para LinkedIn ou GitHub aqui!)
